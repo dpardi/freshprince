@@ -1,0 +1,20 @@
+h1 { 
+	font-family: "Arial", "Verdana", "Serif";
+	font-weight: bold;
+	color: yellow; 
+	background-color: black;
+}
+
+
+body {
+	font-family: "Verdana"
+	font-weight: bold;
+	color: black;
+	background-color: white;
+	background-size: 800px 600px;
+}
+
+h2 {
+	font-family: "Verdana";
+	color: black;
+	}
